@@ -22,6 +22,7 @@ int main()
 		cout << endl;
 	}
 
+	cout << "This is a cat." << endl;
 
 	// finish – display TD array to console
 	return 0;
